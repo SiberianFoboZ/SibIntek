@@ -1,0 +1,11 @@
+C:\Users\FoboZ\source\repos\TestProject_SibIntek\TestProject_SibIntek\bin\Debug\netcoreapp2.0\TestProject_SibIntek.deps.json
+C:\Users\FoboZ\source\repos\TestProject_SibIntek\TestProject_SibIntek\bin\Debug\netcoreapp2.0\TestProject_SibIntek.runtimeconfig.json
+C:\Users\FoboZ\source\repos\TestProject_SibIntek\TestProject_SibIntek\bin\Debug\netcoreapp2.0\TestProject_SibIntek.runtimeconfig.dev.json
+C:\Users\FoboZ\source\repos\TestProject_SibIntek\TestProject_SibIntek\bin\Debug\netcoreapp2.0\TestProject_SibIntek.dll
+C:\Users\FoboZ\source\repos\TestProject_SibIntek\TestProject_SibIntek\bin\Debug\netcoreapp2.0\TestProject_SibIntek.pdb
+C:\Users\FoboZ\source\repos\TestProject_SibIntek\TestProject_SibIntek\obj\Debug\netcoreapp2.0\TestProject_SibIntek.csprojResolveAssemblyReference.cache
+C:\Users\FoboZ\source\repos\TestProject_SibIntek\TestProject_SibIntek\obj\Debug\netcoreapp2.0\TestProject_SibIntek.csproj.CoreCompileInputs.cache
+C:\Users\FoboZ\source\repos\TestProject_SibIntek\TestProject_SibIntek\obj\Debug\netcoreapp2.0\TestProject_SibIntek.AssemblyInfoInputs.cache
+C:\Users\FoboZ\source\repos\TestProject_SibIntek\TestProject_SibIntek\obj\Debug\netcoreapp2.0\TestProject_SibIntek.AssemblyInfo.cs
+C:\Users\FoboZ\source\repos\TestProject_SibIntek\TestProject_SibIntek\obj\Debug\netcoreapp2.0\TestProject_SibIntek.dll
+C:\Users\FoboZ\source\repos\TestProject_SibIntek\TestProject_SibIntek\obj\Debug\netcoreapp2.0\TestProject_SibIntek.pdb
